@@ -1,0 +1,4 @@
+name: DreamCode-Tpa
+version: '${project.version}'
+main: cc.dreamcode.teleport.BukkitPlugin
+api-version: '1.20'
